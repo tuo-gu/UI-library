@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/tuo-gu/UI-library/issues"
   },
-  "homepage": "https://github.com/tuo-gu/UI-library#readme"
+  "homepage": "https://github.com/tuo-gu/UI-library#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^4.3.5",
+    "webpack": "4.29.6",
+    "webpack-cli": "3.2.3"
+  }
 }
